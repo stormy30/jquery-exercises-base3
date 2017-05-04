@@ -35,3 +35,21 @@ h3{
     box-shadow: 2px 2px 2px #999;
     background-color: #ff0042;
 }
+#clicksPM{ color: green;
+
+}
+#btn2{ background-color: pink;
+
+}
+
+#btn3{ background-color: grey;
+
+}
+#rect{width:500px;
+height:100px;
+border:1px solid #000;
+
+}
+#rect{ background-color: purple;
+
+}
